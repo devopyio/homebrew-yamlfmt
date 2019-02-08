@@ -2,9 +2,9 @@
 class Yamlfmt < Formula
   desc "Formats yaml files."
   homepage "https://devopy.io/"
-  url "https://github.com/devopyio/yamlfmt/releases/download/v1.0.4/yamlfmt_1.0.4_darwin_amd64.tar.gz"
-  version "1.0.4"
-  sha256 "32634b9b80f9635fa8293a0602616293601f6844dea50a5c62ce9baca7588be5"
+  url "https://github.com/devopyio/yamlfmt/releases/download/v1.0.5/yamlfmt_1.0.5_Darwin_x86_64.tar.gz"
+  version "1.0.5"
+  sha256 "f4247cc08527334693358e4b0630e7c6ad23db8b420d4602e2ab6d845c2b1a49"
 
   def install
     bin.install "yamlfmt"
